@@ -2,6 +2,8 @@
 
 A simplified web application for taking notes that utilizes local storage for data persistence. This project demonstrates front-end development skills including CRUD operations, pagination, and responsive design.
 
+### Deployment : https://hellorepo.vercel.app/
+
 ## Table of Contents
 
 - [Features](#features)
